@@ -2,6 +2,7 @@ package io.github.jonatasemidio.designpathern.builder.dzone;
 
 /**
  * Created by jonatas.souza on 20/12/2016.
+ Model for builder pattern training
  */
 public class BankAccount {
     public static class Builder{
