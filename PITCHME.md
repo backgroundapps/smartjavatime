@@ -1,7 +1,7 @@
 #HSLIDE
 
 # Smart Java Time
-<span class="primary"><strong>#J5DEV</strong></span>
+<span class="primary"><strong><a href="https://twitter.com/search?q=%23j5dev&src=typd" target="_blank">#J5DEV</a></strong></span>
 
 ---
 
