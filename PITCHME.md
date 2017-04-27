@@ -3,7 +3,7 @@
 # Smart Java Time
 <span class="primary"><strong>#J5DEV</strong></span>
 
-#SLIDE
+---
 
 ## Dzone Tutorials
 
