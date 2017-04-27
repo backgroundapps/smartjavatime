@@ -1,6 +1,6 @@
 # smartjavatime
-##Smart Java Time
+## Smart Java Time
+---
+https://gitpitch.com/jonatasemidio/smartjavatime/presentation
 
-###DZONE
-###Project Euler
 
