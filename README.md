@@ -1,5 +1,6 @@
 # smartjavatime
 ##Smart Java Time
 
-###DEZONE
+###DZONE
+###Project Euler
 
