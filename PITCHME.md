@@ -1,12 +1,18 @@
-Smart Java Time
+#HSLIDE
+
+# Smart Java Time
+<span class="primary"><strong>#J5DEV</strong></span>
+
+#SLIDE
+
+## Dzone Tutorials
+
+Following Tutorials for improving my java skills
+
 ---
 
-Dzone Tutorials
+## Project Euler Samples
 
 ---
 
-Project Euler Samples
-
----
-
-KEEP CODING :) 
+# KEEP CODING :) 
