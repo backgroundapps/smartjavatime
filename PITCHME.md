@@ -15,4 +15,6 @@ Following Tutorials for improving my java skills
 
 ---
 
-# KEEP CODING :) 
+# KEEP CODING  
+<span class="primary"><strong>:)</strong></span>
+
