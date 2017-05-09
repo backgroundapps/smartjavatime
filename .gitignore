@@ -1,3 +1,7 @@
+# IntelliJ specific files/directories
+out
 .idea
-out/
-target/
+*.ipr
+*.iws
+*.iml
+
