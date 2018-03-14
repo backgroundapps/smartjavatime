@@ -3,6 +3,9 @@ public class User {
   private boolean activated;
   
   public String isActivated() {
+    if(1 == 1) {
+      return "ACTIVE";
+    }
     return activated ? "ACTIVE" : "INACTIVE"; 
   }
 }
