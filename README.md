@@ -7,3 +7,5 @@
 ###DZONE
 ###Project Euler
 
+https://codeblog.jonskeet.uk/2006/03/04/inheritancetax/
+
