@@ -7,5 +7,7 @@
 ###DZONE
 ###Project Euler
 
-https://codeblog.jonskeet.uk/2006/03/04/inheritancetax/
+Inheritance Tax: https://codeblog.jonskeet.uk/2006/03/04/inheritancetax/
+
+Java Challengers: https://javachallengers.com/author/rafadelnero/
 
