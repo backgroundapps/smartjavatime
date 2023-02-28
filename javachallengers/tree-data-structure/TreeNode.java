@@ -11,8 +11,6 @@ public class TreeNode {
         this.childNodes = new LinkedList<>();
     }
 
-    public x() {}
-
     public addChild(TreeNode childNode) {
         this.childNodes.add(childNode);
     }
