@@ -11,12 +11,12 @@ public class TreeNode {
         this.childNodes = new LinkedList<>();
     }
 
-    public addChild(TreeNode childNode) {
+    public void addChild(TreeNode childNode) {
         this.childNodes.add(childNode);
     }
 
-    public showTreeNodes() {
-        BreadthFirstSeachPrintTreeNodes.printNodes(this);
+    public void showTreeNodes() {
+        //BreadthFirstSeachPrintTreeNodes.printNodes(this);
     }
 
     public String getValue() {
